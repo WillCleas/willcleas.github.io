@@ -1,0 +1,16 @@
+.title{
+  front-family: georgia;
+}
+
+.source {
+  font-size: 13px;
+  font-family: georgia;
+  color: blue
+}
+
+.stripe {
+  width: 5px;
+  height: 200px;
+  display: inline-block;
+  
+}
